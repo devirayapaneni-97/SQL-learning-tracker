@@ -21,6 +21,8 @@ touch progress/2025-02-03.md
 touch practice/select_statements.sql practice/joins.sql
 touch interview_questions/easy.md interview_questions/medium.md interview_questions/hard.md
 
+*********here we have created three directories at once, just give space in between and it will create three of them, now to crearte files under each directory we have to use touch command and use "TOUCH/" to create one file under the directory, same use space to create multiple files under the same directory.*********
+
 4. Editing .md Files in Git Bash
    
 Using nano to Edit Files:
